@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="main.js" type="NodeJSConfigurationType" focusToolWindowBeforeRun="true" singleton="false" path-to-node="$PROJECT_DIR$/main.js" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
